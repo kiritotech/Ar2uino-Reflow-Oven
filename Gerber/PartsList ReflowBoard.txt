@@ -1,0 +1,23 @@
+M1 - 1.8" tft SPI ST7735 (red version V1.1 -> https://ae01.alicdn.com/kf/HTB1XKtpKkyWBuNjy0Fpq6yssXXag.jpg)
+M2 - Rotary Encoder (black versio -> http://ae01.alicdn.com/kf/HTB1IwoUSXXXXXXSXVXXq6xXFXXXM.jpg)
+M3 - MAX6675
+
+U1 - ATMEGA328P (with bootloader or burn it yourself, 
+                  Program already directly from Uno, or on ReflowBoard (see picture upload.jpg how to upload program))
+
+See google how to burn atmega328 as arduino
+
+R1 - 120ohm
+R2 - 10kohm
+R3 - 220ohm
+C1 to C5 22pf 
+C6 - 10v 470uf
+C7 - 100nF
+
+X1 - 16MHz crystal oscillator
+
+T1 - XH 2.54 3 pins pcb connector (https://ae01.alicdn.com/kf/HTB1jiDzMpXXXXbFXFXXq6xXFXXXR/202432654/HTB1jiDzMpXXXXbFXFXXq6xXFXXXR.jpg?size=150934&height=600&width=600&hash=322b26d95ed518325c9267397809a567)
+T2 - 5 pins header (male or female up to you for reprogramming)
+P1 - KF301-5.0-2P (2 pin screw pcb connector -> https://ae01.alicdn.com/kf/HTB12IcMnN9YBuNjy0Ffq6xIsVXa2.jpg)
+
+Led1 - 5mm led any color you want 

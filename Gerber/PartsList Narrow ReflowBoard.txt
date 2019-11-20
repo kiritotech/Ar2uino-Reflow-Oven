@@ -1,0 +1,23 @@
+M1 - KMR-1.8 spi (https://ae01.alicdn.com/kf/HTB19soBLFXXXXcSXpXXq6xXFXXXd/New-Stylish-1-8-inch-128-x-160-Pixels-For-Arduino-TFT-LCD-Display-Module-Breakout.jpg_640x640.jpg)
+M2 - Rotary Encoder (black versio -> http://ae01.alicdn.com/kf/HTB1IwoUSXXXXXXSXVXXq6xXFXXXM.jpg)
+M3 - MAX6675
+
+IC1 - ATMEGA328P (with bootloader or burn it yourself, 
+                  Program already directly from Uno, or on ReflowBoard (see picture upload.jpg how to upload program))
+
+See google how to burn atmega328 as arduino
+
+R1 - 120ohm
+R2 - 220ohm
+R3 - 10kohm
+C1 to C5 22pf 
+C6 - 10v 470uf
+C7 - 100nf
+
+X1 - 16MHz crystal oscillator
+
+T1 - XH 2.54 3 pins pcb connector (https://ae01.alicdn.com/kf/HTB1jiDzMpXXXXbFXFXXq6xXFXXXR/202432654/HTB1jiDzMpXXXXbFXFXXq6xXFXXXR.jpg?size=150934&height=600&width=600&hash=322b26d95ed518325c9267397809a567)
+T2 - 5 pins header (male or female up to you for reprogramming)
+T3 - KF301-5.0-2P (2 pin screw pcb connector -> https://ae01.alicdn.com/kf/HTB12IcMnN9YBuNjy0Ffq6xIsVXa2.jpg)
+
+D1 - 5mm led any color you want 

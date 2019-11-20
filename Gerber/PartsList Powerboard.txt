@@ -1,0 +1,12 @@
+
+U1 - MOC3020
+
+U2 - HLK-5M05
+
+R1 - 220ohm
+R2 - 180ohm
+R3 - 180ohm
+
+Q1 - BTA24 
+
+Heatsink for BTA24 and 5v fan for heatsink
