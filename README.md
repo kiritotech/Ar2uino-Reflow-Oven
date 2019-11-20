@@ -8,7 +8,11 @@ Modified by KiritoTech
 http://kiritotechh.simplesite.com
 
 Software is modified to work with 1.8" spi instead 1.44".
+
 Also I created pcb with isolated power supply.
+
+And I have also left FTDI323 header on, that way you can reprogram reflow controller.
+
 
 We have not 2 but 4 versions of software.
 
