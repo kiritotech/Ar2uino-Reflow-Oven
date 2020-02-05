@@ -1,5 +1,5 @@
 M1 - KMR-1.8 spi (https://ae01.alicdn.com/kf/HTB19soBLFXXXXcSXpXXq6xXFXXXd/New-Stylish-1-8-inch-128-x-160-Pixels-For-Arduino-TFT-LCD-Display-Module-Breakout.jpg_640x640.jpg)
-M2 - Rotary Encoder (black versio -> http://ae01.alicdn.com/kf/HTB1IwoUSXXXXXXSXVXXq6xXFXXXM.jpg)
+M2 - Rotary Encoder (black versio -> "KY-040" -> http://ae01.alicdn.com/kf/HTB1IwoUSXXXXXXSXVXXq6xXFXXXM.jpg)
 M3 - MAX6675
 
 IC1 - ATMEGA328P (with bootloader or burn it yourself, 
