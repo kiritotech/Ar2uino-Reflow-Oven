@@ -10,3 +10,9 @@ R3 - 180ohm
 Q1 - BTA24 
 
 Heatsink for BTA24 and 5v fan for heatsink
+
+Update:
+2020-03-10
+PCB fixed problem, and add 2x 3pin Screw Terminal Barrier 9.5mm pitch.
+Link screw terminal barrier:
+https://www.aliexpress.com/item/32867531471.html?spm=a2g0o.productlist.0.0.69142f5fFdAq58&algo_pvid=04a771fc-9f8e-4a25-bffa-5592455c997a&algo_expid=04a771fc-9f8e-4a25-bffa-5592455c997a-24&btsid=0b0a3f8115837964356194611e832b&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
