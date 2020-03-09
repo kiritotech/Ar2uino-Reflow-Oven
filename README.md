@@ -1,6 +1,9 @@
 # Ar2uino-Reflow-Oven
 Arduino Reflow Oven
 
+Update 2020-03-10
+Powerboard fixed with screw terminal barrier. (see part list for powerboard)
+
 Based on Sfenn's software.
 https://ar2uino.wordpress.com/category/arduino-reflow-oven/
 
